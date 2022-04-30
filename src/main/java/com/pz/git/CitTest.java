@@ -8,5 +8,6 @@ public class CitTest {
         System.out.println("hello,紧急修护");
         System.out.println("紧急修护master");
         System.out.println("紧急修护hot-fix");
+        System.out.println("push test");
     }
 }
