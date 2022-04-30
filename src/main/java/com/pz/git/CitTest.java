@@ -6,5 +6,6 @@ public class CitTest {
         System.out.println("你好呀");
         System.out.println("版本二");
         System.out.println("hello,紧急修护");
+        System.out.println("紧急修护master");
     }
 }
