@@ -9,5 +9,7 @@ public class CitTest {
         System.out.println("紧急修护master");
         System.out.println("紧急修护hot-fix");
         System.out.println("push test");
+        System.out.println("pull test");
+        
     }
 }
