@@ -10,6 +10,8 @@ public class CitTest {
         System.out.println("紧急修护hot-fix");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("是真的呀");
+        
         
     }
 }
